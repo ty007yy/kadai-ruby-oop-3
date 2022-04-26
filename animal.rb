@@ -9,5 +9,3 @@ class Animal
   end
 end
 
-animal = Animal.new('田中 太郎', 25)
-animal.say
